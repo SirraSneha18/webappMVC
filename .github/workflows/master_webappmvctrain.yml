@@ -54,4 +54,4 @@ jobs:
           app-name: 'webappmvctrain'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_31CA3273E8E9431786A8043F8BD2C00A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACFB14D24C66416294245437C5CC0A88 }}
